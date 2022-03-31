@@ -24,3 +24,11 @@ Big O Notation = O(n²)
 ``` bash
 18 sayısı 2. indexte yer almaktadır.
 ```
+
+# Merge Sort Projesi
+
+[16,21,11,8,12,22]
+
+* Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+![merge](https://user-images.githubusercontent.com/94282227/160982205-55848b85-9e9d-40b0-95c4-c216b5de1a43.jpg)
