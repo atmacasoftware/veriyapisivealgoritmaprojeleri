@@ -40,3 +40,8 @@ Big O Notation = O(nlogn)
 ```
 
 # Binary Search Tree Projesi
+
+* [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+![Image 23](https://user-images.githubusercontent.com/94282227/161368412-aeb30ad0-41b2-4e6b-b916-bd1da23e7337.jpg)
+
